@@ -1,4 +1,4 @@
-package org.example.designPatterns.behavioural.strategy.adpaterInterface;
+package org.example.designPatterns.behavioural.adpaterInterface;
 
 /**
  * This is the Adapter class. It implements the interface and provides default

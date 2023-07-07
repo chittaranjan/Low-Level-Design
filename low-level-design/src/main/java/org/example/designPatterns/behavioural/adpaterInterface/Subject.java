@@ -1,4 +1,4 @@
-package org.example.designPatterns.behavioural.strategy.adpaterInterface;
+package org.example.designPatterns.behavioural.adpaterInterface;
 
 import java.util.ArrayList;
 import java.util.List;
